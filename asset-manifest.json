@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0a431876.css",
+    "main.js": "/static/js/main.cbe13cff.js",
+    "static/media/aboutp.png": "/static/media/aboutp.4ba709ff028fbbf5bc52.png",
+    "static/media/profile.png": "/static/media/profile.4ba709ff028fbbf5bc52.png",
+    "static/media/portf.png": "/static/media/portf.8bded1335479871d3a83.png",
+    "static/media/ritik -CV.pdf": "/static/media/ritik -CV.8129cef2f3665c8bd14d.pdf",
+    "static/media/restaurant-6281067_1280.webp": "/static/media/restaurant-6281067_1280.579764be466de9921731.webp",
+    "static/media/work5.jpg": "/static/media/work5.094ec4a2224db8908873.jpg",
+    "static/media/work1.jpg": "/static/media/work1.321b4ae3bf404acdfdc6.jpg",
+    "static/media/work3.jpg": "/static/media/work3.135e9065694bc13dc31d.jpg",
+    "static/media/OIP.webp": "/static/media/OIP.ad4cd8677d87bd7b0e5a.webp",
+    "index.html": "/index.html",
+    "main.0a431876.css.map": "/static/css/main.0a431876.css.map",
+    "main.cbe13cff.js.map": "/static/js/main.cbe13cff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a431876.css",
+    "static/js/main.cbe13cff.js"
+  ]
+}
